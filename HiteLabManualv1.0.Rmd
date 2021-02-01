@@ -3,8 +3,8 @@ title: "Hite Lab Manual v 1.0"
 output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## GitHub Documents
